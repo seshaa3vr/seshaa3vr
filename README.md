@@ -1,7 +1,7 @@
 ## Hi there  I am Seshaathri👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on enhancing my foundational IT and cybersecurity skills  <br>👯 I’m looking to collaborate on beginner-friendly cybersecurity projects or CTFs<br>🤝 I’m looking for help with understanding real-world applications of CompTIA A+, Network+, and Security+  <br>🌱 I’m currently learning CompTIA A+, Network+, and Security+<br>💬 Ask me about cybersecurity basics, ethical hacking, or how to get started in InfoSec<br>⚡ Fun fact: I can talk for hours about cyber threats but still forget my own Wi-Fi password 😅
 
 
 ## 🌐 Socials:
